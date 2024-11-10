@@ -4,9 +4,11 @@ Aquest projecte es desenvolupa utilitzant el MVC - *Model Vista Controlador* de 
 
 S'executarà en un entorn utilitzant:
 
-* Servidor d'AWS Academy - *Amazon Web Services Academy* amb una IP fixa assignada.
+* Servidor Linux - Ubuntu 22.04 / 24.04
 
-* Servidor Linux - Ubuntu 22.04
+  * Contenidor PROXMOX - *Contenidor PROXMOX* a l'institut.
+
+  * Servidor d'AWS Academy - *Amazon Web Services Academy* amb una IP fixa assignada.
 
 * Servidor web - Apache 2.4
 
